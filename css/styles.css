@@ -6,7 +6,7 @@
 body {
   background: #f7f5f0;
   color: #222;
-  font-family: "Roboto", sans-serif;
+  font-family: "Playfair+Display", sans-serif;
   font-weight: 200;
   margin: 0;
   padding: 0;
@@ -94,7 +94,7 @@ h3 {
 }
 
 h3 {
-  font-family: "Roboto", sans-serif;
+  font-family: "Playfair+Display", sans-serif;
   font-weight: 400;
 }
 
@@ -247,5 +247,11 @@ footer {
     width: 50%;
     padding: 0 2%;
     float: left;
+  }
+  .col-lrg h2 {
+    text-align: left;
+  }
+  .col-lrg .nav {
+    text-align: right;
   }
 }
