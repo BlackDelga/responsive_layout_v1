@@ -116,6 +116,7 @@ footer {
 .footer__nav p {
   display: inline-block;
   width: 49.3%;
+  text-align: right;
 }
 
 .footer__nav p:first-child {
